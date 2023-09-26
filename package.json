@@ -1,6 +1,6 @@
 {
   "homepage": "https://SeadSabanovic.github.io/Boring-Blog",
-  "name": "dojo-blog",
+  "name": "boring-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
