@@ -82,6 +82,9 @@ $container-w: 1400px + 24 * 2;
 }
 
 .details {
+  h2 {
+    margin-bottom: 16px;
+  }
   &__content {
     background-color: #fff;
     padding: 24px;
