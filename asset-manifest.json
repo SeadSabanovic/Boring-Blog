@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Boring-Blog/static/css/main.79f0ff02.css",
-    "main.js": "/Boring-Blog/static/js/main.177bcc73.js",
+    "main.css": "/Boring-Blog/static/css/main.91daa04e.css",
+    "main.js": "/Boring-Blog/static/js/main.ca1aaaff.js",
     "static/media/404.svg": "/Boring-Blog/static/media/404.864e9e10ca1a46fea6d5af0c9d07cc23.svg",
     "index.html": "/Boring-Blog/index.html",
-    "main.79f0ff02.css.map": "/Boring-Blog/static/css/main.79f0ff02.css.map",
-    "main.177bcc73.js.map": "/Boring-Blog/static/js/main.177bcc73.js.map"
+    "main.91daa04e.css.map": "/Boring-Blog/static/css/main.91daa04e.css.map",
+    "main.ca1aaaff.js.map": "/Boring-Blog/static/js/main.ca1aaaff.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f0ff02.css",
-    "static/js/main.177bcc73.js"
+    "static/css/main.91daa04e.css",
+    "static/js/main.ca1aaaff.js"
   ]
 }
