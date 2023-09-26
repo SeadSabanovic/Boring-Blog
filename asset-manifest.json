@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Boring-Blog/static/css/main.79f0ff02.css",
+    "main.js": "/Boring-Blog/static/js/main.177bcc73.js",
+    "static/media/404.svg": "/Boring-Blog/static/media/404.864e9e10ca1a46fea6d5af0c9d07cc23.svg",
+    "index.html": "/Boring-Blog/index.html",
+    "main.79f0ff02.css.map": "/Boring-Blog/static/css/main.79f0ff02.css.map",
+    "main.177bcc73.js.map": "/Boring-Blog/static/js/main.177bcc73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f0ff02.css",
+    "static/js/main.177bcc73.js"
+  ]
+}
